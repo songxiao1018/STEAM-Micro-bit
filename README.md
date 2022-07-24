@@ -1,3 +1,9 @@
+## 提交记录
+---
+2022.7.24 [麦昆遥控器 代码](https://songxiao1018.github.io/micro-bit-out-car/)
+
+2022.7.24 [麦昆小车 代码](https://songxiao1018.github.io/micro-bit-out-car/)
+
 <!--
 ## Welcome to GitHub Pages
 
