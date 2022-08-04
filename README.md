@@ -1,14 +1,11 @@
 # steam-micro-bit
 一个关于我自己发布最新Micro：bit在STEAM教学中的研究进展的清单
 
-## 近期更新
+## 项目概览
 
 ---
-2022.7.25
+
 > + [基于Micro：bit的吃豆子小游戏](https://songxiao1018.github.io/micro-bit-eat-ben/)
-
-2022.7.24
-
 > + [麦昆小车的遥控器代码](https://songxiao1018.github.io/micro-bit-out-car/)
 > + [关于麦昆小车的小车代码](https://songxiao1018.github.io/micro-bit-in-car/)
 
